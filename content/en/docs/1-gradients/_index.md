@@ -8,17 +8,14 @@ Translation Needed
 {{% /pageinfo %}}
 
 
-Gradienten sind, wie der Name schon sagt, graduelle Helligkeitsverläufe die nicht zum Astrofoto dazu gehören, sondern durch äußere Störeinflüsse entstanden sind.
-Ursachen können z.B. Lichtverschmutzung oder eine falsche bzw. fehlende Flatkorrektur sein, aber auch natürliche Helligkeitsverläufe des Nachthimmels, sowie Eigenarten der verwendeten Optik (Abschattung in Form einer Vignette).
-Um Deep-Sky Fotos zu bearbeiten ist es sinnvoll solche Gradienten aus den Bildern zu entfernen.
-Das schaut nicht nur besser aus, sondern vereinfacht auch die weitere Bearbeitung des Bildes.
-Auch Farbstiche lassen sich auf diese Art und Weise entfernen und generell ist es sinnvoll das Astrofoto vom Betrag des Himmelshintergrundes zu befreien.
+Gradients are, as the name suggests, gradual brightness progressions that are not part of astrophotography, but are caused by external interference. 
+Causes can be, for example, light pollution or incorrect or missing flat correction, but also natural brightness gradients of the night sky, as well as peculiarities of the optics used (shading in the form of a vignette).
+In order to edit deep sky photos, it makes sense to remove such gradients from the images. This not only looks better, but also makes further editing of the image easier. Color casts can also be removed in this way and it
+generally makes sense to free the astrophoto from the amount of the sky background.
 
-Kurzum: Eine Gradienten Entfernung ist sehr sinnvoll, beinahe zwingend notwendig.
-Verschiedene kostenpflichtige Astrosoftwares bieten sehr gute Werkzeuge zur Gradienten Entfernung wie etwa PixInsight (DBE,ABE) oder AstroPixelProcessor.
-Auch kann man kostenpflichtige PlugIns für die Softwares AdobePhotoshop oder Affinity Photo erwerben um das Problem zu lösen.
-GraXpert ist eine frei erhältliche Open Source Software, die ausschließlich für diese Zwecke programmiert wurde.
-Sie funktioniert Stand Alone, also nicht als PlugIn für irgendeine andere Software.
+In short: Gradient removal is very useful, almost absolutely necessary. Various paid astro software offers very good tools for gradient removal such as PixInsight (DBE, ABE) or AstroPixelProcessor. You can also purchase
+paid plug-ins for the Adobe Photoshop or Affinity Photo software to solve the problem. GraXpert is freely available open source software that was programmed exclusively for these purposes. It works stand alone, not as a
+plug-in for any other software.
 
 {{< cardpane >}}
   {{< card >}}
